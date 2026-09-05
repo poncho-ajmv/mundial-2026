@@ -1,0 +1,49 @@
+group,team,elo,p_first,p_advance,champion
+A,Mexico,1999,60,84,2.0
+A,South Korea,1917,20,54,
+A,Czech Republic,1828,15,44,
+A,South Africa,1662,5,18,
+B,Canada,1943,52,84,1.4
+B,Switzerland,1998,37,77,2.0
+B,Bosnia and Herzegovina,1660,8,29,
+B,Qatar,1566,2,10,
+C,Brazil,2102,62,87,8.3
+C,Morocco,2037,26,66,3.0
+C,Scotland,1871,10,34,
+C,Haiti,1741,3,13,
+D,United States,1850,45,72,1.6
+D,Turkey,2028,25,52,1.0
+D,Paraguay,1958,17,41,
+D,Australia,1921,13,34,
+E,Germany,2046,48,80,4.5
+E,Ecuador,2073,34,69,3.0
+E,Ivory Coast,1847,17,45,1.0
+E,Curaçao,1604,1,6,
+F,Netherlands,2043,50,78,3.8
+F,Japan,2033,29,61,2.0
+F,Sweden,1790,16,41,
+F,Tunisia,1739,6,19,
+G,Belgium,2000,60,84,3.8
+G,Egypt,1854,18,48,
+G,Iran,1906,15,43,
+G,New Zealand,1710,7,25,
+H,Spain,2291,71,95,14.6
+H,Uruguay,1998,24,76,2.0
+H,Saudi Arabia,1695,3,16,
+H,Cape Verde,1700,2,13,
+I,France,2177,57,85,9.3
+I,Norway,2016,25,61,2.0
+I,Senegal,1959,16,45,1.0
+I,Iraq,1784,2,9,
+J,Argentina,2225,66,89,9.2
+J,Algeria,1911,17,53,1.0
+J,Austria,1930,14,46,
+J,Jordan,1786,2,12,
+K,Portugal,2069,54,84,5.7
+K,Colombia,2090,34,72,2.8
+K,DR Congo,1790,6,22,
+K,Uzbekistan,1829,6,21,
+L,England,2119,65,89,8.1
+L,Croatia,2012,23,63,2.0
+L,Ghana,1631,6,26,
+L,Panama,1864,5,22,

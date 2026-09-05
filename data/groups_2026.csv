@@ -1,0 +1,49 @@
+group,team,pot_position
+A,Mexico,1
+A,South Korea,2
+A,Czech Republic,3
+A,South Africa,4
+B,Canada,1
+B,Switzerland,2
+B,Bosnia and Herzegovina,3
+B,Qatar,4
+C,Brazil,1
+C,Morocco,2
+C,Scotland,3
+C,Haiti,4
+D,United States,1
+D,Turkey,2
+D,Paraguay,3
+D,Australia,4
+E,Germany,1
+E,Ecuador,2
+E,Ivory Coast,3
+E,Curaçao,4
+F,Netherlands,1
+F,Japan,2
+F,Sweden,3
+F,Tunisia,4
+G,Belgium,1
+G,Egypt,2
+G,Iran,3
+G,New Zealand,4
+H,Spain,1
+H,Uruguay,2
+H,Saudi Arabia,3
+H,Cape Verde,4
+I,France,1
+I,Norway,2
+I,Senegal,3
+I,Iraq,4
+J,Argentina,1
+J,Algeria,2
+J,Austria,3
+J,Jordan,4
+K,Portugal,1
+K,Colombia,2
+K,DR Congo,3
+K,Uzbekistan,4
+L,England,1
+L,Croatia,2
+L,Ghana,3
+L,Panama,4

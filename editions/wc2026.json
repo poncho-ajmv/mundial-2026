@@ -1,0 +1,15 @@
+{
+  "name": "FIFA World Cup 2026",
+  "tournament": "FIFA World Cup",
+  "first_match": "2026-06-11",
+  "cut": "2026-06-08",
+  "groups": "data/groups_2026.csv",
+  "squad_values": "data/squad_2026.csv",
+  "group_matches": 72,
+  "r32_slots": [
+    ["A2","B2"], ["C1","F2"], ["E1","3rd"], ["F1","C2"],
+    ["E2","I2"], ["I1","3rd"], ["A1","3rd"], ["L1","3rd"],
+    ["G1","3rd"], ["D1","3rd"], ["H1","J2"], ["K2","L2"],
+    ["B1","3rd"], ["D2","G2"], ["J1","H2"], ["K1","3rd"]
+  ]
+}
