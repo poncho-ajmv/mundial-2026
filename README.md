@@ -287,3 +287,5 @@ Code: MIT ([`LICENSE`](LICENSE)). Documents and reports: CC BY 4.0
 [martj42/international_results](https://github.com/martj42/international_results).
 Squad values: aggregated Transfermarkt figures via a public dataset; see
 [`data/README.md`](data/README.md).
+
+Alfonso Moraga, 2026.

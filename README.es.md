@@ -291,3 +291,5 @@ Código: MIT ([`LICENSE`](LICENSE)). Documentos y reportes: CC BY 4.0
 [martj42/international_results](https://github.com/martj42/international_results).
 Valores de plantilla: cifras agregadas de Transfermarkt vía un dataset público; ver
 [`data/README.md`](data/README.md).
+
+Alfonso Moraga, 2026.
